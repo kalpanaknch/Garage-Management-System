@@ -1,7 +1,23 @@
-Name of the student:
-Learning track:
-Project name:
-Trailhead profile:
-Developer org username:
-Developer org password:
-Position:Team leader
+Name of the student: K.KALPANA
+Learning track:SALESFORCE ADMIN/DEVELOPER
+Project name: GARAGE MANAGEMENT SYSTEM
+Trailhead profile:https://www.salesforce.com/trailblazer/kalpanakanchi
+Developer org username: kalpanaknch@gdctirupati.com
+Developer org password: Gayatri@123
+Position: k.kalpana
+
+Name of the student: G.M.POOJITHA
+Learning track: SALESFORCE ADMIN/DEVELOPER
+Project name: GARAGE MANAGEMENT SYSTEM
+Trailhead profile: https://www.salesforce.com/trailblazer/poojithagandikota
+Developer org username: gandikotapooji04@gdctirupati.com
+Developer org password: Gayatri@123
+Position: k.kalpana
+
+Name of the student: K.BHARAGAVI
+Learning track: SALESFORCE ADMIN/DEVELOPER
+Project name:  GARAGE MANAGEMENT SYSTEM
+Trailhead profile: https://www.salesforce.com/trailblazer/bhargavikalicherla
+Developer org username: kalicherlabhargavi000@gdctirupati.com
+Developer org password: Gayatri@123
+Position: k.kalpana
